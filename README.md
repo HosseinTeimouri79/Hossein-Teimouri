@@ -1,16 +1,37 @@
-## Hi there 👋
+## About Me 🌟  
+A passionate **backend developer** and **Linux enthusiast** with a strong focus on building robust, scalable, and efficient solutions. I’m always eager to learn new technologies and dive deep into complex projects.  
 
-<!--
-**Hossein-Teimouri/Hossein-Teimouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## My Expertise 🚀  
+### Backend Development:  
+- **Python**: Expert in building RESTful APIs and microservices using **Flask** and **FastAPI**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Development:  
+- Proficient in crafting intuitive and responsive user interfaces with **JavaScript**.  
+
+### Linux & DevOps:  
+- Advanced skills in **Linux system administration**, including scripting with **Bash** and optimizing server configurations.  
+- Comfortable working with **networking**, **hardware**, and exploring open-source projects.
+
+---
+
+## Interests 🌱  
+I’m deeply interested in:  
+- **Open-source projects** and contributing to the tech community.  
+- Exploring **networking**, **Linux internals**, and **hardware systems**.  
+- Continuous learning and upskilling in **distributed systems** and advanced **DevOps practices**.  
+
+---
+
+## Skills & Tools 🔧  
+- **Programming Languages**: Python, Bash, JavaScript
+- **Frameworks**: Flask, FastAPI  
+- **Databases**: PostgreSQL, Redis  
+- **Tools**: Git, Docker
+
+---
+
+## Connect With Me 🌐  
+- **Email**: [HosseinTeimouri79@gmail.com](mailto:HosseinTeimouri79@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/HosseinTeimouri79](https://linkedin.com/in/HosseinTeimouri79)
